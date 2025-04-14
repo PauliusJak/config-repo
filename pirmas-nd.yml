@@ -1,0 +1,14 @@
+server:
+  port: 8082
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+spring:
+  application:
+    name: customer-service
+
+bank:
+  message: "Sveiki iš Customer Service! Paskyros ir klientai čia."
