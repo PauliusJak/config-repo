@@ -8,7 +8,7 @@ eureka:
 
 spring:
   application:
-    name: customer-service
+    name: pirmas-nd
 
 bank:
-  message: "Sveiki iš Customer Service! Paskyros ir klientai čia."
+  message: "Sveiki!"
