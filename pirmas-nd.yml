@@ -10,5 +10,5 @@ spring:
   application:
     name: pirmas-nd
 
-bank:
+acc:
   message: "Sveiki!"
